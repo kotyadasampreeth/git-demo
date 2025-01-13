@@ -6,3 +6,6 @@ master lines has been added
 third line has been added 
 
 new line has been added
+
+new commit is going to add
+
